@@ -1,6 +1,6 @@
 <ins>3D Modeler</ins>
 -----------
-This is a project I wrote as part of my college curriculum.
+This is a project I wrote as part of my college curriculum. Written in the year 2007.  
 It is a 3D modeling tool that lets users create models from primitive shapes and apply transformations (translation, rotation, scaling). It also features raytracing and texturing capabilities, all powered by the DirectX9 API.
 
 C/C++
