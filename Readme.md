@@ -1,6 +1,6 @@
 3D Modeler: A project I wrote as part of my college curriculum.
 -----------
-This is a 3D modeling tool that lets users create models from primitive shapes and apply basic transformations. It also features raytracing and texturing capabilities, all powered by the DirectX9 API
+This is a 3D modeling tool that lets users create models from primitive shapes and apply transformations (translation, rotation, scaling). It also features raytracing and texturing capabilities, all powered by the DirectX9 API.
 
 
 How to use
@@ -9,12 +9,14 @@ How to use
 The software can be Controlled both by Keyboard and Mouse.
 The key description is as follows.
 
-Mode selection:
+Mode selection
+--------------
 F1 🡪 Wireframe mode.
 F2 🡪 Solid fill mode.
 
 
-Create/Delete Objects:
+Create/Delete Objects
+---------------------
 Numbers 1-9 are for creating Object in the 3D Space. Every object is created in the centre and its pivot is also initilised in the center.
 
 1 🡪 Sphere
@@ -30,10 +32,13 @@ Numbers 1-9 are for creating Object in the 3D Space. Every object is created in 
 Del 🡪 Destroys the selected object.
 ESC 🡪 destroys all Objects.
 
-Apply Texture:
+Apply Texture
+-------------
 F3, F4 🡪  used to apply textures to the Object.
 
+
 Movement controls
+-----------------
 Right Direction 🡪 Rotates in positive x-axis.
 Ctrl + Right Direction 🡪 Translates in positive x-axis
 Left Direction 🡪 Rotates in negative x-axis
