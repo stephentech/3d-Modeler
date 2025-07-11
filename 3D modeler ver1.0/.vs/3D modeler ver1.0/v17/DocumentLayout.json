@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\3d Modeler\\3D modeler ver1.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7EE4F2-0037-402D-A7A2-5E27A5AECAD7}|3D modeler ver1.0\\3D modeler ver1.0.vcxproj|D:\\git\\3d Modeler\\3D modeler ver1.0\\3D modeler ver1.0\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D7EE4F2-0037-402D-A7A2-5E27A5AECAD7}|3D modeler ver1.0\\3D modeler ver1.0.vcxproj|solutionrelative:3D modeler ver1.0\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7EE4F2-0037-402D-A7A2-5E27A5AECAD7}|3D modeler ver1.0\\3D modeler ver1.0.vcxproj|D:\\git\\3d Modeler\\3D modeler ver1.0\\3D modeler ver1.0\\dxmain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D7EE4F2-0037-402D-A7A2-5E27A5AECAD7}|3D modeler ver1.0\\3D modeler ver1.0.vcxproj|solutionrelative:3D modeler ver1.0\\dxmain.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7EE4F2-0037-402D-A7A2-5E27A5AECAD7}|3D modeler ver1.0\\3D modeler ver1.0.vcxproj|D:\\git\\3d Modeler\\3D modeler ver1.0\\3D modeler ver1.0\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D7EE4F2-0037-402D-A7A2-5E27A5AECAD7}|3D modeler ver1.0\\3D modeler ver1.0.vcxproj|solutionrelative:3D modeler ver1.0\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7EE4F2-0037-402D-A7A2-5E27A5AECAD7}|3D modeler ver1.0\\3D modeler ver1.0.vcxproj|D:\\git\\3d Modeler\\3D modeler ver1.0\\3D modeler ver1.0\\raycasting.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D7EE4F2-0037-402D-A7A2-5E27A5AECAD7}|3D modeler ver1.0\\3D modeler ver1.0.vcxproj|solutionrelative:3D modeler ver1.0\\raycasting.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7EE4F2-0037-402D-A7A2-5E27A5AECAD7}|3D modeler ver1.0\\3D modeler ver1.0.vcxproj|D:\\git\\3d Modeler\\3D modeler ver1.0\\3D modeler ver1.0\\dxDraw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D7EE4F2-0037-402D-A7A2-5E27A5AECAD7}|3D modeler ver1.0\\3D modeler ver1.0.vcxproj|solutionrelative:3D modeler ver1.0\\dxDraw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7EE4F2-0037-402D-A7A2-5E27A5AECAD7}|3D modeler ver1.0\\3D modeler ver1.0.vcxproj|D:\\git\\3d Modeler\\3D modeler ver1.0\\3D modeler ver1.0\\common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D7EE4F2-0037-402D-A7A2-5E27A5AECAD7}|3D modeler ver1.0\\3D modeler ver1.0.vcxproj|solutionrelative:3D modeler ver1.0\\common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "camera.h",
+              "DocumentMoniker": "D:\\git\\3d Modeler\\3D modeler ver1.0\\3D modeler ver1.0\\camera.h",
+              "RelativeDocumentMoniker": "3D modeler ver1.0\\camera.h",
+              "ToolTip": "D:\\git\\3d Modeler\\3D modeler ver1.0\\3D modeler ver1.0\\camera.h",
+              "RelativeToolTip": "3D modeler ver1.0\\camera.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-11T16:01:10.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dxmain.h",
+              "DocumentMoniker": "D:\\git\\3d Modeler\\3D modeler ver1.0\\3D modeler ver1.0\\dxmain.h",
+              "RelativeDocumentMoniker": "3D modeler ver1.0\\dxmain.h",
+              "ToolTip": "D:\\git\\3d Modeler\\3D modeler ver1.0\\3D modeler ver1.0\\dxmain.h",
+              "RelativeToolTip": "3D modeler ver1.0\\dxmain.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-11T16:01:07.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Texture.h",
+              "DocumentMoniker": "D:\\git\\3d Modeler\\3D modeler ver1.0\\3D modeler ver1.0\\Texture.h",
+              "RelativeDocumentMoniker": "3D modeler ver1.0\\Texture.h",
+              "ToolTip": "D:\\git\\3d Modeler\\3D modeler ver1.0\\3D modeler ver1.0\\Texture.h",
+              "RelativeToolTip": "3D modeler ver1.0\\Texture.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-11T16:01:01.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "raycasting.h",
+              "DocumentMoniker": "D:\\git\\3d Modeler\\3D modeler ver1.0\\3D modeler ver1.0\\raycasting.h",
+              "RelativeDocumentMoniker": "3D modeler ver1.0\\raycasting.h",
+              "ToolTip": "D:\\git\\3d Modeler\\3D modeler ver1.0\\3D modeler ver1.0\\raycasting.h",
+              "RelativeToolTip": "3D modeler ver1.0\\raycasting.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-11T16:00:58.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dxDraw.cpp",
+              "DocumentMoniker": "D:\\git\\3d Modeler\\3D modeler ver1.0\\3D modeler ver1.0\\dxDraw.cpp",
+              "RelativeDocumentMoniker": "3D modeler ver1.0\\dxDraw.cpp",
+              "ToolTip": "D:\\git\\3d Modeler\\3D modeler ver1.0\\3D modeler ver1.0\\dxDraw.cpp",
+              "RelativeToolTip": "3D modeler ver1.0\\dxDraw.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-11T16:00:45.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "common.h",
+              "DocumentMoniker": "D:\\git\\3d Modeler\\3D modeler ver1.0\\3D modeler ver1.0\\common.h",
+              "RelativeDocumentMoniker": "3D modeler ver1.0\\common.h",
+              "ToolTip": "D:\\git\\3d Modeler\\3D modeler ver1.0\\3D modeler ver1.0\\common.h",
+              "RelativeToolTip": "3D modeler ver1.0\\common.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-11T16:00:43.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
